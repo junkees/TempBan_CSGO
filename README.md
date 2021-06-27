@@ -7,7 +7,8 @@
 * !untempban nick reason
 
 addons/sourcemod/configs/databases.cfg
-``` "tempban_spec"
+``` 
+"tempban_spec"
         {
                 "driver"        "mysql"
                 "host"  ""
@@ -15,4 +16,5 @@ addons/sourcemod/configs/databases.cfg
                 "user"  ""
                 "pass"  ""
                 "port"  "3306"
-        } ```
+        } 
+```
